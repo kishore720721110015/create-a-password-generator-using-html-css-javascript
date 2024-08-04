@@ -1,0 +1,46 @@
+.box{
+    max-width: 350px;
+    margin: 30px auto;
+    background-color: rgb(144, 163, 188);
+    padding:30px;
+    border-radius: 8px;
+    margin-top: 200px;
+
+}
+body{
+    background-color: rgb(169, 210, 240);
+}
+h2{
+    text-align: center;
+}
+input[type="text"]{
+    width: 230px;
+    padding: 7px;
+    border-radius: 3px;
+    margin-left: 50px;
+}
+.but{
+    margin-top: 25px;
+    margin-left: 50px;
+}
+.btn1{
+    width: 100px;
+    padding: 6px;
+    border-radius: 3px;
+    color: white;
+    background-color: rgb(7, 51, 78);
+}
+.btn1:hover{
+    background-color: rgb(9, 99, 169);
+}
+.btn2{
+    width: 100px;
+    padding: 6px;
+    margin-left: 40px;
+    border-radius: 3px;
+    color: white;
+    background-color: rgb(7, 51, 78);
+}
+.btn2:hover{
+    background-color: rgb(9, 99, 169)
+}
